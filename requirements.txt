@@ -1,0 +1,7 @@
+# requirements.txt
+prefect>=2.10          # Workflow orchestrator
+google-generativeai   # Google Gemini SDK
+python-dotenv         # For loading .env files
+Pillow                # For image handling (optional but good for validation)
+pathlib               # (Standard library, but good to be aware of)
+# Add others if needed, like 'requests' or specific logging libraries
