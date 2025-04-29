@@ -55,6 +55,9 @@ flowchart LR
    python flow.py
    ```
 
+## Prefect UI
+![alt text](image.png)
+
 ## Design & Development Process
 
 ### 1. Initial Prototype
